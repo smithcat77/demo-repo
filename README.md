@@ -1,3 +1,3 @@
 # Demo
 
-Some description of the program and rules
+Some description of the program and rules!
